@@ -1,7 +1,9 @@
 # OpenShift CLI
 ## 1.	Easy Method
-There is a jump server that has provisioned that you can SSH into that has all of the tools you’ll need to complete the labs. The information should be contained in the email you received after you registered and should looks something like this:
-OC Jump VM	ocvm.westus.cloudapp.azure.com
+There is a jump server that has provisioned that you can SSH into that has all of the tools you’ll need to complete the labs.  Linux/Mac users will be able to use SSH directly in the command line. Windows users can use WSL or can download Putty for ssh.
+
+The information should be contained in the email you received after you registered and should look like this:
+ocvm.westus.cloudapp.azure.com
 
  
 ## 2.	Involved Method
